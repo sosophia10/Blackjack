@@ -33,4 +33,3 @@ This project implements a multiplayer Blackjack game where 1 to 4 players can pl
     javac BlackjackGame.java
     java BlackjackGame
 
-3. This project is open-source and available under the MIT License.
