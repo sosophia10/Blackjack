@@ -27,3 +27,10 @@ This project implements a multiplayer Blackjack game where 1 to 4 players can pl
 1. Clone the repository:
    ```bash
    git clone https://github.com/your-username/blackjack-game.git
+
+2. Compile and run the program:
+```bash
+javac BlackjackGame.java
+java BlackjackGame
+
+This project is open-source and available under the MIT License.
